@@ -11,13 +11,13 @@ Home Page Trending Corner:
 Home page Food Categories:
 ![Home]()
 About:
-![Home]()
+![About]()
 Menu Carasoul:
-![Home]()
+![Menu]()
 Menu Popular items:
-![Home]()
+![Menu]()
 Contact:
-![Home]()
+![Contact]()
 Footer:
-![Home]()
+![Footer]()
 
