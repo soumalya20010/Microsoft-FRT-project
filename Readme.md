@@ -4,4 +4,4 @@ I have created a web application called Soumalya's Food Center which functions a
 
 Home page:
 
-![Home](https://github.com/soumalya20010/Microsoft-FTR-project/blob/32c6dafd73971278fd7eafda8d450fc39e349919/assets/Biryani_Menu.jpg)
+![Home](https://github.com/soumalya20010/Microsoft-FTR-project/blob/7f59d4f9f9b78b30b82a6d6820cb58a5e7eff602/readme/Homepage.png)
